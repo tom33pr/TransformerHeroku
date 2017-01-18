@@ -1,0 +1,77 @@
+[Site]
+Time zone=GMT Standard Time
+Comments=
+Use callback=No
+Transfix ver.A/B=No
+Data list=30,38,35,32,31,34,33,36,37,39,23,24,27,28,47,55,52,49,48,51,50,53,54,56
+Data list time=1
+Data export file name=C:\Users\502664538\Desktop\Lee\test.txt
+Alarms export file name=
+Use Modem=No
+COMPort via Ethernet=No
+TCP/IP COM=Yes
+IP Address=3.169.62.116
+IP Port=502
+COMPort=8
+Modem No.=1
+Use Gas Symbols=No
+Total Gas in %=No
+Filterlength=7
+Transfix ver. A/B=No
+
+[Transfix]
+SW=12.3.81
+PGA conf=558B
+Serial no=37530
+ID=TX1-D006387
+SN=TX1-D006387
+Daylight saving=
+Sampling start time=
+Normal mode interval=
+Caution mode interval=
+Alarm mode interval=
+Normalization Temp.=
+Transformer CTR=
+Password=
+Modem init string=
+GSM SMS receiver phone no=
+GSM SMS receiver phone no1=
+GSM SMS receiver phone no2=
+GSM SMS receiver phone no3=
+GSM SMS receiver phone no4=
+GSM SMS receiver phone no5=
+GSM SMS receiver phone no6=
+GSM SMS receiver phone no7=
+SMS notification on alarm=
+SMS notification on alarm COMb=
+CDMA Modem for SMS=
+Modbus address=
+Modbus baud rate=
+Modbus enabled=
+Modbus enabled COMb=
+Modbus parity=
+Config=
+Timing=0.0,1000.0,6000.0,500.0,18000.0,2000.0,25000.0,3000.0,60000.0,1500.0,31200.0,200.0,30000.0,3000.0,4000.0,4000.0,300.0,360000.0,42000.0,2600.0,9100.0,18300.0,1950.0,31200.0,4500.0,1500.0,8000.0,31200.0,4500.0,1500.0,8000.0,10000.0,21200.0,3000.0,18000.0,6000.0,1000.0,1000.0,21200.0,3000.0,18000.0,100.0,360000.0,360000.0,1.0,200.0,100.0,100.0,3000.0,18000.0
+TimingRapid=-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan
+Coeff=-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan,-nan
+Analog Inputs=0,Load Cur,,,,,,0.00,0.00,0.00,0.00,0.00,0.00,1.00,1.00,1.00,1.00,1.00,1.00
+pO=0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.0
+ROC Time span=
+ROC min. no. of samples=
+Spurious Alarm Enabled=
+Spurious Alarm Rmax=
+Spurious Alarm dCmin=
+
+[Graphs]
+00=ppm-values,8,0,200.0,0.0,0,2,200.0,0.0,65535,3,500.0,0.0,16777215,4,2000.0,0.0,26367,5,100.0,0.0,8388736,8,50.0,0.0,16711680,7,50.0,0.0,255,6,100.0,0.0,16711935,8
+01=Temperatures,8,28,40.0,-10.0,4227200,12,40.0,-10.0,65280,15,40.0,-10.0,255,16,40.0,-10.0,16744576,21,40.0,-10.0,16777088,22,40.0,-10.0,33023,23,40.0,-10.0,16711680,17,40.0,-10.0,8454143,8
+02=Pressures,3,14,100.0,0.0,255,19,50.0,0.0,128,20,100.0,0.0,8421631,8
+03=Oxygen,1,1,50000.0,0.0,65280,8
+04=Gas Circuit,3,13,140.0,40.0,8454143,30,1.0,0.0,255,31,100.0,0.0,16711680,16
+05=Tacho counts,2,24,2000.0,0.0,65280,25,2000.0,0.0,16711680,8
+06=Noise and Microphone Tests,3,11,-100.0,-200.0,8454143,26,-50.0,-100.0,255,27,-50.0,-100.0,16711680,8
+07=Transformer Load,1,10,25.0,0.0,8454143,8
+
+[Alarm settings]
+Current=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+

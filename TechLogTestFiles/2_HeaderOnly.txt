@@ -1,0 +1,13 @@
+
+// ID: TX1-D006387
+// SN: TX1-D006387
+// PGA SN: 37530
+// PGA SW: 12.3.81
+// pgatest: 1.0.0.0
+// Total Run Counter: 153
+// First Run: 2016-09-28 10:47:03
+
+// AO2 = 1
+// kw_oil = 29.76
+// zw_oil = 0.84
+

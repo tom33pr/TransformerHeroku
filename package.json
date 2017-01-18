@@ -1,0 +1,17 @@
+{
+  "name": "Transformer",
+  "version": "0.0.1",
+  "author": "Tom P.",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "jshint": "^2.9.4",
+	"pg": "^6.1.0"
+  },
+ "engines": {
+    "node": "^0.12.7",
+    "npm": "^2.7.4"
+  },
+  "scripts": {
+	"start": "node nodeServer.js"
+  }
+}
